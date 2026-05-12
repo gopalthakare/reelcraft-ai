@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/logo.png" width="180" />
+  <img src="./public/logo.png" width="240" />
 </p>
 
 <h1 align="center">🎬 ReelCraft AI</h1>
