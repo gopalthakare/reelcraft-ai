@@ -25,7 +25,7 @@ The project combines AI prompt engineering, image generation pipelines, cinemati
 
 ---
 
-# 📋 Features
+## 📋 Features
 
 ## 🎨 AI Prompt Enhancement
 - Converts simple prompts into cinematic scene descriptions
@@ -115,7 +115,7 @@ Includes cinematic soundtrack presets:
 
 ---
 
-# 🚀 Quick Start
+## 🚀 Quick Start
 
 ## Prerequisites
 
@@ -126,7 +126,7 @@ Includes cinematic soundtrack presets:
 
 ---
 
-# ⚙️ Installation
+## ⚙️ Installation
 
 ## Clone the repository
 
@@ -148,7 +148,7 @@ npm install
 
 ---
 
-# 🔑 Environment Variables
+## 🔑 Environment Variables
 
 Create a `.env` file in the root directory:
 
@@ -159,7 +159,7 @@ STABILITY_API_KEY=your_stability_api_key
 
 ---
 
-# ▶️ Running the Application
+## ▶️ Running the Application
 
 Start the development server:
 
@@ -175,7 +175,7 @@ http://localhost:8080
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
 ## 🖥️ Landing Page
 
@@ -201,7 +201,7 @@ http://localhost:8080
 
 ---
 
-# 📁 Project Structure
+## 📁 Project Structure
 
 ```text
 reelcraft-ai/
@@ -227,7 +227,7 @@ reelcraft-ai/
 
 ---
 
-# 🛠️ Technology Stack
+## 🛠️ Technology Stack
 
 ## Frontend
 - React 19
@@ -253,7 +253,7 @@ reelcraft-ai/
 
 ---
 
-# 🧠 How It Works
+## 🧠 How It Works
 
 ## 1. User Prompt
 User enters a cinematic idea.
@@ -290,7 +290,7 @@ Frames are animated into a cinematic reel preview.
 
 ---
 
-# 📦 Build for Production
+## 📦 Build for Production
 
 ```bash
 npm run build
@@ -298,7 +298,7 @@ npm run build
 
 ---
 
-# 🔮 Future Improvements
+## 🔮 Future Improvements
 
 - 🎙️ AI voice narration
 - 🎵 Dynamic soundtrack generation
@@ -310,7 +310,7 @@ npm run build
 
 ---
 
-# 🐛 Troubleshooting
+## 🐛 Troubleshooting
 
 ## Missing API Key
 
@@ -334,13 +334,13 @@ The app automatically falls back to alternative image sources.
 
 ---
 
-# 📄 License
+## 📄 License
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 Gopal Thakare
 
