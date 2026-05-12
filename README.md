@@ -27,14 +27,14 @@ The project combines AI prompt engineering, image generation pipelines, cinemati
 
 ## 📋 Features
 
-## 🎨 AI Prompt Enhancement
+### 🎨 AI Prompt Enhancement
 - Converts simple prompts into cinematic scene descriptions
 - Adds atmosphere, lighting, mood, and visual storytelling
 - Optimized for AI image generation
 
 ---
 
-## 🎞️ Storyboard Scene Generation
+### 🎞️ Storyboard Scene Generation
 Automatically generates multiple cinematic scenes:
 - Environment Reveal
 - Hero Introduction
@@ -45,7 +45,7 @@ Each scene uses different cinematic framing styles.
 
 ---
 
-## 🖼️ AI Image Generation
+### 🖼️ AI Image Generation
 - AI-generated cinematic frames
 - Stability AI integration
 - Pollinations fallback system
@@ -53,7 +53,7 @@ Each scene uses different cinematic framing styles.
 
 ---
 
-## 🔄 Intelligent Fallback System
+### 🔄 Intelligent Fallback System
 
 ReelCraft AI includes a multi-level fallback image generation pipeline to prevent application crashes and maintain reel generation even when external AI services fail.
 
@@ -73,7 +73,7 @@ ReelCraft AI includes a multi-level fallback image generation pipeline to preven
 
 This ensures the application always remains functional and can continue generating storyboard reels under different API availability conditions.
 
-## 🔁 Rendering Flow
+### 🔁 Rendering Flow
 
 ```text
 User Prompt
@@ -92,14 +92,14 @@ Downloadable Video Output
 ```
 ---
 
-## 🎥 Reel Rendering
+### 🎥 Reel Rendering
 - Generates animated cinematic reels
 - Smooth Ken Burns-style motion
 - Downloadable `.webm` reel export
 
 ---
 
-## 🎵 Soundtrack Selection
+### 🎵 Soundtrack Selection
 Includes cinematic soundtrack presets:
 - Cinematic
 - Synthwave
@@ -107,7 +107,7 @@ Includes cinematic soundtrack presets:
 
 ---
 
-## 🌌 Modern Cinematic UI
+### 🌌 Modern Cinematic UI
 - Responsive futuristic interface
 - Dark cinematic aesthetic
 - Animated gradients and transitions
@@ -117,7 +117,7 @@ Includes cinematic soundtrack presets:
 
 ## 🚀 Quick Start
 
-## Prerequisites
+### Prerequisites
 
 - Python 3.10
 - Node.js 18+
@@ -128,19 +128,19 @@ Includes cinematic soundtrack presets:
 
 ## ⚙️ Installation
 
-## Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/gopalthakare/reelcraft-ai.git
 ```
 
-## Move into the project directory
+### Move into the project directory
 
 ```bash
 cd reelcraft-ai
 ```
 
-## Install dependencies
+### Install dependencies
 
 ```bash
 npm install
@@ -148,7 +148,7 @@ npm install
 
 ---
 
-## 🔑 Environment Variables
+### 🔑 Environment Variables
 
 Create a `.env` file in the root directory:
 
@@ -159,7 +159,7 @@ STABILITY_API_KEY=your_stability_api_key
 
 ---
 
-## ▶️ Running the Application
+### ▶️ Running the Application
 
 Start the development server:
 
@@ -177,25 +177,25 @@ http://localhost:8080
 
 ## 📸 Screenshots
 
-## 🖥️ Landing Page
+### 🖥️ Landing Page
 
 ![Landing Page](./screenshots/interface.png)
 
 ---
 
-## ✍️ Prompt Input Interface
+### ✍️ Prompt Input Interface
 
 ![Prompt Input](./screenshots/input.png)
 
 ---
 
-## 🎞️ Storyboard Generation
+### 🎞️ Storyboard Generation
 
 ![Storyboard](./screenshots/storyboard.png)
 
 ---
 
-## 🎥 Final Reel Output
+### 🎥 Final Reel Output
 
 ![Final Reel](./screenshots/final-reel.png)
 
@@ -229,7 +229,7 @@ reelcraft-ai/
 
 ## 🛠️ Technology Stack
 
-## Frontend
+### Frontend
 - React 19
 - TypeScript
 - TanStack Start
@@ -238,14 +238,14 @@ reelcraft-ai/
 
 ---
 
-## AI & Generation
+### AI & Generation
 - Groq API
 - Stability AI
 - Pollinations AI
 
 ---
 
-## Development
+### Development
 - Python
 - Vite
 - Node.js
@@ -255,7 +255,7 @@ reelcraft-ai/
 
 ## 🧠 How It Works
 
-## 1. User Prompt
+### 1. User Prompt
 User enters a cinematic idea.
 
 Example:
@@ -265,7 +265,7 @@ Spider-Man swinging through a futuristic neon city
 
 ---
 
-## 2. AI Prompt Enhancement
+### 2. AI Prompt Enhancement
 The system enhances the prompt with:
 - cinematic lighting
 - atmosphere
@@ -275,17 +275,17 @@ The system enhances the prompt with:
 
 ---
 
-## 3. Storyboard Generation
+### 3. Storyboard Generation
 Multiple cinematic scenes are generated automatically.
 
 ---
 
-## 4. AI Frame Generation
+### 4. AI Frame Generation
 Each scene is converted into cinematic AI-generated images.
 
 ---
 
-## 5. Reel Rendering
+### 5. Reel Rendering
 Frames are animated into a cinematic reel preview.
 
 ---
@@ -312,7 +312,7 @@ npm run build
 
 ## 🐛 Troubleshooting
 
-## Missing API Key
+### Missing API Key
 
 Error:
 ```text
@@ -324,7 +324,7 @@ Make sure `.env` exists and contains valid API keys.
 
 ---
 
-## Image Generation Fails
+### Image Generation Fails
 
 Possible causes:
 - Stability AI credits exhausted
