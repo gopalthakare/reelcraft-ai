@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./screenshots/logo.png" width="200" />
+  <img src="./screenshots/logo.png" width="220" />
 </p>
 <h1 align="center">🎬 ReelCraft AI</h1>
 
@@ -11,7 +11,7 @@ An AI-powered cinematic reel generation platform that transforms a single text p
 
 ---
 
-# 💡 Why This Project?
+## 💡 Why This Project?
 
 ReelCraft AI was built to explore how generative AI can assist in cinematic storytelling and rapid visual prototyping.
 
